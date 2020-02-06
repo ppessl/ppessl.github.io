@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peter Pessl</title>
+    <link>https://pessl.cc/</link>
+      <atom:link href="https://pessl.cc/index.xml" rel="self" type="application/rss+xml" />
+    <description>Peter Pessl</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Peter Pessl</title>
+      <link>https://pessl.cc/</link>
+    </image>
+    
+    <item>
+      <title>More Practical Single-Trace Attacks on the Number Theoretic Transform</title>
+      <link>https://pessl.cc/publication/19-latincrypt/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://pessl.cc/publication/19-latincrypt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differential Fault Attacks on Deterministic Lattice Signatures</title>
+      <link>https://pessl.cc/publication/18-ches/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://pessl.cc/publication/18-ches/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single-Trace Side-Channel Attacks on Masked Lattice-Based Encryption</title>
+      <link>https://pessl.cc/publication/17-ches/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://pessl.cc/publication/17-ches/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>To BLISS-B or not to be: Attacking strongSwan&#39;s Implementation of Post-Quantum Signatures</title>
+      <link>https://pessl.cc/publication/17-ccs/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://pessl.cc/publication/17-ccs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing the Shuffling Side-Channel Countermeasure for Lattice-Based Signatures</title>
+      <link>https://pessl.cc/publication/16-indocrypt/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://pessl.cc/publication/16-indocrypt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DRAMA: Exploiting DRAM Addressing for Cross-CPU Attacks</title>
+      <link>https://pessl.cc/publication/16-usenix/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://pessl.cc/publication/16-usenix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhancing Side-Channel Analysis of Binary-Field Multiplication with Bit Reliability</title>
+      <link>https://pessl.cc/publication/16-ctrsa/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://pessl.cc/publication/16-ctrsa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Curved Tags - A Low-Resource ECDSA Implementation Tailored for RFID</title>
+      <link>https://pessl.cc/publication/14-rfidsec/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://pessl.cc/publication/14-rfidsec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pushing the Limits of SHA-3 Hardware Implementations to Fit on RFID</title>
+      <link>https://pessl.cc/publication/13-ches/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://pessl.cc/publication/13-ches/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
