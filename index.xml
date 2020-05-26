@@ -5,12 +5,20 @@
     <link>https://pessl.cc/</link>
       <atom:link href="https://pessl.cc/index.xml" rel="self" type="application/rss+xml" />
     <description>Peter Pessl</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Peter Pessl</title>
       <link>https://pessl.cc/</link>
     </image>
+    
+    <item>
+      <title>Single-Trace Attacks on Keccak</title>
+      <link>https://pessl.cc/publication/20-ches/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://pessl.cc/publication/20-ches/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>More Practical Single-Trace Attacks on the Number Theoretic Transform</title>
