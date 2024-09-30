@@ -5,12 +5,52 @@
     <link>https://pessl.cc/</link>
       <atom:link href="https://pessl.cc/index.xml" rel="self" type="application/rss+xml" />
     <description>Peter Pessl</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Peter Pessl</title>
       <link>https://pessl.cc/</link>
     </image>
+    
+    <item>
+      <title>Correction Fault Attacks on Randomized CRYSTALS-Dilithium</title>
+      <link>https://pessl.cc/publication/24-ches/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://pessl.cc/publication/24-ches/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Belief Propagation Meets Lattice Reduction: Security Estimates for Error-Tolerant Key Recovery from Decryption Errors</title>
+      <link>https://pessl.cc/publication/23-ches/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://pessl.cc/publication/23-ches/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Higher-Order Masked Ciphertext Comparison for Lattice-Based Cryptography</title>
+      <link>https://pessl.cc/publication/22-ches/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://pessl.cc/publication/22-ches/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fault-Enabled Chosen-Ciphertext Attacks on Kyber</title>
+      <link>https://pessl.cc/publication/21-indocrypt/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://pessl.cc/publication/21-indocrypt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fault Attacks on CCA-secure Lattice KEMs</title>
+      <link>https://pessl.cc/publication/21-ches/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://pessl.cc/publication/21-ches/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Single-Trace Attacks on Keccak</title>
